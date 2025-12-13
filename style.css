@@ -1,5 +1,17 @@
-
-
-img{ 
-    width: 1000px;
+body {
+    
+   background: #000;
+    color: white;
+}
+h1{
+    background: red;
+}
+h2{ 
+    background: white;
+}
+p{
+    background: orange;
+}
+div{
+    height: 500px;
 }
